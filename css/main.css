@@ -2,18 +2,20 @@
 /* CSS Document */
 #header {
 	margin: auto;
-	width:99%;
+	width:100%;
     background-color:black;
     color:white;
     text-align:center;
     padding:5px;
 }
 table {
+	margin: auto;
 	text-align: center;
+	font-size: 24px;
 }
 #nav {
     background-color:#eeeeee;
-    width:99%;
+    width:100%;
     padding:5px;
 	
 }
